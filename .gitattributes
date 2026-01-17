@@ -1,0 +1,6 @@
+Assets/Classical_city/Textures/building_a.tif filter=lfs diff=lfs merge=lfs -binary
+Assets/Classical_city/Textures/ground.tif filter=lfs diff=lfs merge=lfs -binary
+Assets/Classical_city/Textures/vegetation_b.tif filter=lfs diff=lfs merge=lfs -binary
+Assets/Garage/Source/Textures/Garage[[:space:]]Blue.psd filter=lfs diff=lfs merge=lfs -binary
+Assets/Classical_city/Textures/props_a.tif filter=lfs diff=lfs merge=lfs -binary
+Assets/Classical_city/Textures/props_b.tif filter=lfs diff=lfs merge=lfs -binary
